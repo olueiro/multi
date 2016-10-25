@@ -1,7 +1,7 @@
 -- author: http://github.com/olueiro
 -- MIT licensed
 
-local VERSION = "0.2.1-dev-secretgist"
+local VERSION = "0.2.3"
 
 local TEXT = 1
 local CODE = 2
